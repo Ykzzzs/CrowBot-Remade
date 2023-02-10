@@ -1,13 +1,13 @@
 {
-    "token": "token",
+    "token": "MTA3MzU0ODA4MDg5ODY0NjA3Ng.GLUKXw.Sgip-Me7dzCOO1vsTcVyUAPENm47DMyMlHvJ48",
     "color": "embecolor",
-    "prefix": "&",
-    "name": "Footer Name",
+    "prefix": "+",
+    "name": "BlackJail",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "tonid",
-        "id"
+        "1043530367753261086",
+        ""
     ]
 }
